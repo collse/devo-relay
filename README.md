@@ -4,7 +4,7 @@ Devo Relay scoja based docker project
 
 This is a project to deploy a Devo Relay using docker without any further requirements.
 
-To integrate you data sources with the Devo Relay just send your events to host/IP and the default ports 12999/13002
+To integrate your data sources with the Devo Relay just send your events to host/IP and the default ports 12999/13002
 
 The compose is ready to share ports from 12999 to 13030 to cover more than the required default ports
 
