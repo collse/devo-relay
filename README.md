@@ -8,7 +8,7 @@ To integrate your data sources with the Devo Relay just send your events to host
 
 The compose is ready to share ports from 12999 to 13030 to cover more than the required default ports
 
-The first time when your run the docker-based Relay, remember to active the Relay on your Devo Platform Website
+The first time when your run the docker-based Devo Relay, remember to activate the Devo Relay on your Devo Platform Website
 
 Clone or [download](https://github.com/DevoInc/devo-relay/archive/master.zip) the repository.
 
